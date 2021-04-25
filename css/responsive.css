@@ -1,0 +1,5 @@
+@media all(max-width: 1000px){
+	.main-header .container-fluid {
+    max-width: 100%;
+}
+}
